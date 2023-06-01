@@ -355,8 +355,8 @@ github.com/yuin/goldmark v1.4.0/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
 github.com/yuin/goldmark v1.5.4 h1:2uY/xC0roWy8IBEGLgB1ywIoEJFGmRrX21YQcvGZzjU=
 github.com/yuin/goldmark v1.5.4/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
-github.com/zawpavel/qrcp v0.1.0 h1:dR4ZPqBBHaxs9X/kG3Ga/BV9A6wOHTDA1yvpUxa8HgM=
-github.com/zawpavel/qrcp v0.1.0/go.mod h1:uy1jjk101xstnninEZvw/Fuh+JanKtBfXNGDdnAYgZA=
+github.com/zawpavel/qrcp v0.1.1 h1:687fowEY3gnYbwqo6vSO4EweuQKwR9QpnRwEe/YOjeg=
+github.com/zawpavel/qrcp v0.1.1/go.mod h1:uy1jjk101xstnninEZvw/Fuh+JanKtBfXNGDdnAYgZA=
 go.etcd.io/etcd/api/v3 v3.5.0/go.mod h1:cbVKeC6lCfl7j/8jBhAK6aIYO9XOjdptoxU/nLQcPvs=
 go.etcd.io/etcd/client/pkg/v3 v3.5.0/go.mod h1:IJHfcCEKxYu1Os13ZdwCwIUTUVGYTSAM3YSwc9/Ac1g=
 go.etcd.io/etcd/client/v2 v2.305.0/go.mod h1:h9puh54ZTgAKtEbut2oe9P4L/oqKCVB6xsXlzd7alYQ=
